@@ -100,5 +100,5 @@ script /dev/null -c bash
 
 ![image](https://github.com/Cesmendaro/Dockerlabs.es/assets/153618246/538c7475-4c47-4486-a1ac-0390c6fb346d)
 
-Haquina 100% hackeada.
+Maquina 100% hackeada.
 
