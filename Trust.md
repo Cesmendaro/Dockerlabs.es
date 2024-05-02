@@ -1,5 +1,5 @@
 Lanzamos la maquina
-`sudo bash auto_deploy.sh trust.tar`
+```sudo bash auto_deploy.sh trust.tar```
 ![image](https://github.com/Cesmendaro/Dockerlabs.es/assets/153618246/c16ba732-c73f-45e3-99f6-20418d084296)
 
 Lanzamos escaneo con nmap.
