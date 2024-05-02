@@ -1,4 +1,12 @@
-Lanzamos la maquina
+---
+Nombre de la máquina: Trust
+Sistema Operativo: Linux
+Dificultad: Muy Facil 🟢
+
+Enlace de descarga: https://dockerlabs.es
+---
+
+---Lanzamos la maquina
 ```sudo bash auto_deploy.sh trust.tar```
 ![image](https://github.com/Cesmendaro/Dockerlabs.es/assets/153618246/c16ba732-c73f-45e3-99f6-20418d084296)
 
