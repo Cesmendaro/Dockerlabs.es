@@ -2,7 +2,6 @@
 Nombre de la máquina: Trust
 Sistema Operativo: Linux
 Dificultad: Muy Facil 🟢
-
 Enlace de descarga: https://dockerlabs.es
 ---
 
