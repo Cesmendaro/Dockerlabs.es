@@ -17,7 +17,7 @@ sudo bash auto_deploy.sh trust.tar
 
 ## Nmap.
 
-Después de haber lanzado la máquina, procedemos a realizar un escaneo utilizando nmap.
+Después de haber lanzado el entorno vulnerable, procedemos a realizar un escaneo utilizando nmap.
 
 ```
 nmap -p- --open -sS -sC -sV --min-rate 5000 -n -vvv -Pn 172.17.0.2
