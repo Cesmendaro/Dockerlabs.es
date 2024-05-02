@@ -66,6 +66,8 @@ Ahora que disponemos del nombre de usuario y la contraseña, procederemos a esta
 ![image](https://github.com/Cesmendaro/Dockerlabs.es/assets/153618246/902181d4-5fdc-4246-8ee0-c0646d07d175)
 
 
+## Escalada de privilegios.
+
 Una vez dentro y bajo el usuario "mario", el siguiente paso es intentar escalar privilegios. Para ello, ejecutaremos el comando `sudo -l`para ver qué comandos puede ejecutar el usuario "mario" como root.
 
 
@@ -87,6 +89,8 @@ sudo /usr/bin/vim -c ':!/bin/sh'
 ```
 
 ![image](https://github.com/Cesmendaro/Dockerlabs.es/assets/153618246/79e850fd-ef92-4edc-8394-99115a1a9839)
+
+## Tratamiento de la TTY
 
 Una vez completado este paso, hemos obtenido privilegios de root. Ahora solo nos queda realizar el tratamiento de la TTY para tener una interacción más completa y funcional como root.
 
