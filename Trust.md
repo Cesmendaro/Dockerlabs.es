@@ -1,6 +1,6 @@
 Lanzamos la maquina
 `sudo bash auto_deploy.sh trust.tar`
-![[Pasted image 20240429215858.png]]
+![image](https://github.com/Cesmendaro/Dockerlabs.es/assets/153618246/c16ba732-c73f-45e3-99f6-20418d084296)
 
 Lanzamos escaneo con nmap.
 `nmap -p- --open -sS -sC -sV --min-rate 2000 -n -vvv -Pn 172.17.0.2
